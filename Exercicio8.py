@@ -1,7 +1,7 @@
 #Exercicio Calcular Catetos / Hipotenusa
 
-# import math - importar tudo matematico
-from math import hypot
+import math 
+#from math import hypot
 
 co = float (input('Comprimento do cateto oposto: '))
 ca = float (input('Comprimento do cateto adjacente: '))
